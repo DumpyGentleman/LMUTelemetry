@@ -1,0 +1,13 @@
+[project]
+name = "lmutelemetry"
+version = "0.1.0"
+description = "LMU telemetry reading."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "polars",
+    "duckdb",
+]
+
+[tool.uv]
+python-preference = "only-managed"
