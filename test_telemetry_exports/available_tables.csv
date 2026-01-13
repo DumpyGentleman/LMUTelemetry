@@ -1,0 +1,102 @@
+name
+ABS
+ABSLevel
+Ambient Temperature
+AntiStall Activated
+Best LapTime
+Best Sector1
+Best Sector2
+Brake Bias Rear
+Brake Migration
+Brake Pos
+Brake Pos Unfiltered
+Brake Thickness
+Brakes Air Temp
+Brakes Force
+Brakes Temp
+CloudDarkness
+Clutch Pos
+Clutch Pos Unfiltered
+Clutch RPM
+Current LapTime
+Current Sector
+Current Sector1
+Current Sector2
+Engine Max RPM
+Engine Oil Temp
+Engine RPM
+Engine Water Temp
+FFB Output
+Finish Status
+Front3rdDeflection
+FrontFlapActivated
+FrontRideHeight
+Fuel Level
+FuelMixtureMap
+G Force Lat
+G Force Long
+G Force Vert
+GPS Latitude
+GPS Longitude
+GPS Speed
+GPS Time
+Gear
+Ground Speed
+Headlights State
+In Pits
+Lap
+Lap Dist
+Lap Time
+Last Sector1
+Last Sector2
+LastImpactMagnitude
+LaunchControlActive
+Minimum Path Wetness
+OffpathWetness
+OverheatingState
+Path Lateral
+Rear3rdDeflection
+RearFlapActivated
+RearFlapLegalStatus
+RearRideHeight
+Regen Rate
+RideHeights
+Sector1 Flag
+Sector2 Flag
+Sector3 Flag
+SoC
+Speed Limiter
+Steering Pos
+Steering Pos Unfiltered
+Steering Shaft Torque
+SurfaceTypes
+Susp Pos
+TC
+TCCut
+TCLevel
+TCSlipAngle
+Throttle Pos
+Throttle Pos Unfiltered
+Time Behind Next
+Total Dist
+Track Edge
+Track Temperature
+Turbo Boost Pressure
+Tyres Wear
+TyresCarcassTemp
+TyresCompound
+TyresPressure
+TyresRimTemp
+TyresRubberTemp
+TyresTempCentre
+TyresTempLeft
+TyresTempRight
+Virtual Energy
+Wheel Speed
+WheelsDetached
+Wind Heading
+Wind Speed
+Yellow Flag State
+channelsList
+eventsList
+metadata
